@@ -203,32 +203,3 @@ a. 搜索查看issue，确定是否已有人提过同类问题
 b. 确认没有同类issue后，自己可新建issue，描述问题或建议
 
 c. 如果想自己解决，请fork仓库后，在**devlop分支**进行编码开发，完成后**提交pr到devlop分支**，并标注解决的issue编号
-
-我会尽快进行代码审核，提前感谢你的贡献。
-
-## 6.捐赠支持
-
-[>>点击查看已捐赠列表和留言](https://github.com/RayWangQvQ/BiliBiliTool.Docs/blob/main/donate-list.md)
-
-个人维护开源不易
-
-如果觉得我写的程序对你小有帮助
-
-或者，就是单纯的想集资给我买瓶霸王增发液
-
-那么下面的赞赏码可以扫一扫啦
-
-（赞赏时记得留下【昵称】和【留言】~）
-
-微信扫码自动赞赏1元：
-
-![微信赞赏码](https://github.com/RayWangQvQ/BiliBiliTool.Docs/blob/main/imgs/donate-wechat.jpg)
-
-支付宝扫码自动赞赏1元：
-
-![支付宝赞赏码](https://github.com/RayWangQvQ/BiliBiliTool.Docs/blob/main/imgs/donate-ali.jpg)
-
-## 7.API参考
-[JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)
-
-[happy888888/BiliExp](https://github.com/happy888888/BiliExp)
